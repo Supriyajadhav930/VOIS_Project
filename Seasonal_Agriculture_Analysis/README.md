@@ -1,6 +1,6 @@
 # 🌾 Seasonal Agriculture Performance Analysis
 
-📌 Project Overview
+## 📌 Project Overview
 
 The **Seasonal Agriculture Performance Analysis** project focuses on analyzing agricultural data to understand how farming performance varies across different seasons.
 
@@ -8,7 +8,7 @@ The project explores the relationship between seasonal weather conditions, soil 
 
 Using Python and data visualization techniques, this project aims to identify seasonal patterns and generate insights that can support better agricultural planning and resource management.
 
- 🎯 Project Objectives
+## 🎯 Project Objectives
 
 - Analyze agricultural performance across different seasons.
 - Compare crop production and yield across Kharif, Rabi, and Zaid seasons.
@@ -18,7 +18,7 @@ Using Python and data visualization techniques, this project aims to identify se
 - Understand variations in disease and pest risk.
 - Explore differences in crop yield across states.
 
- 📂 Dataset Description
+## 📂 Dataset Description
 
 The dataset contains **4,000 records and 28 columns** related to agricultural performance.
 
@@ -112,8 +112,37 @@ By examining environmental conditions, crop yield, production, water usage, and 
 
 The findings can support better seasonal agricultural planning and more informed resource management decisions.
 
+## ▶️ How to Run the Project
 
+1. Clone this repository:
 
+   ```bash
+   git clone YOUR_GITHUB_REPOSITORY_URL
+   ```
+
+2. Navigate to the project folder:
+
+   ```bash
+   cd Seasonal_Agriculture_Analysis
+   ```
+
+3. Install the required libraries:
+
+   ```bash
+   pip install pandas numpy matplotlib seaborn jupyter
+   ```
+
+4. Open Jupyter Notebook:
+
+   ```bash
+   jupyter notebook
+   ```
+
+5. Open `Seasonal_Agriculture_Performance_Analysis.ipynb` and run the cells.
+
+## 👩‍💻 Author
+
+**Supriya Jadhav**
 
 B.Tech – Information Technology
 
